@@ -184,6 +184,12 @@ body {
     position: relative;
   }
 
+  .icons {
+      display: flex;
+      justify-content: center;
+      gap: 4px;
+  }
+
   #yt a {
     position: relative;
     top: 100px;
