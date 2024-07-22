@@ -24,7 +24,12 @@ body {
       transform: scale(1);
     }
   }
-  
+
+ .titl {
+     text-align: center;
+     font-wight: 600;
+ }
+
   .loader {
     display: flex;
     justify-content: center;
